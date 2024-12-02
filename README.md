@@ -4,8 +4,6 @@ A Software Engineer Backend from Toba, Indonesia
 
 👨‍💻 All of my projects are available at https://github.com/charlybutar21
 
-📫 How to reach me charlymicolasbutar@gmail.com
-
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/charly-micolas/)
 
